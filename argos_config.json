@@ -1,0 +1,18 @@
+{
+  "coins": [
+    "bitcoin",
+    "ethereum",
+    "ripple",
+    "cardano",
+    "chainlink",
+    "hedera-hashgraph",
+    "algorand",
+    "solana"
+  ],
+  "interval_seconds": 60,
+  "telegram_bot_token": "8105810957:AAGiGSU2OdwkqPpYEp40naqm0kgPMJis5-U",
+  "telegram_chat_id": "7380398463",
+  "email_alerts": false
+}
+
+
